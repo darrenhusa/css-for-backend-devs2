@@ -16,26 +16,32 @@
 
         <div class="card-left">
 
-            <a href="#">PHP</a>
+            <a href="#" class="card-skill-button">PHP</a>
 
-            <img src="" alt="">
+            <img src="https://laracasts.s3.amazonaws.com/series/thumbnails/10-techniques-for-cleaner-code.png?v=8" width="98" height="98">
 
-            <div class="card-difficulty">
+            <span class="card-difficulty">
                 Intermediate Difficulty
-            </div>
+            </span>
         </div>
 
         <div class="card-right">
-            <div class="card-title">
-                Testing Jargon
-            </div>
+            <h3 class="card-title"><a href="#">Testing Jargon</a></h3>
 
-            <div class="card-excerpt">
-                <p>There's no two ways about it Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam pariatur esse, beatae molestiae laboriosam ad, est officiis sequi tempore quidem eos porro amet non cum voluptates suscipit illum at quam!</p>
-            </div>
+            <p class="card-excerpt">
+                There's no two ways about it: terminology in the testing world is incredibly overwhelming. Let's fix that! Bit by bit, we'll break all of these confusing concepts down as best we can.
+            </p>
 
             <div class="card-meta">
-                5 Lessons 53:10 min
+                <div>
+                    <img src="https://image.flaticon.com/icons/svg/864/864685.svg"  width="15" height="15">
+                    5 Lessons 
+                </div>
+                
+                <div>
+                    <img src="https://image.flaticon.com/icons/svg/2088/2088617.svg"  width="15" height="15">
+                    53:10 min
+                </div>
             </div>
 
         </div>
